@@ -5,7 +5,7 @@
 //  Created by Re:Zero on 25.03.2021.
 //
 
-//import Foundation
+import Foundation
 //
 //
 //struct Journal {
