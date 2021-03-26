@@ -70,14 +70,14 @@ extension queue {
 
 
 var pupil = queue<Journal>()
-pupil.enqueue(element: .init(name: "Alice", mark: 4))
-pupil.enqueue(element: .init(name: "John", mark: 5))
-pupil.enqueue(element: .init(name: "Jessie", mark: 5))
-pupil.enqueue(element: .init(name: "Andrea", mark: 3))
-pupil.enqueue(element: .init(name: "Alex", mark: 4))
-pupil.enqueue(element: .init(name: "Timothi", mark: 3))
-pupil.enqueue(element: .init(name: "Sarah", mark: 4))
-pupil.enqueue(element: .init(name: "Pamela", mark: 3))
+pupil.enqueue(element: .init(name: "Hiro", mark: 5))
+pupil.enqueue(element: .init(name: "John", mark: 4))
+pupil.enqueue(element: .init(name: "Jensen", mark: 4))
+pupil.enqueue(element: .init(name: "Andrew", mark: 3))
+pupil.enqueue(element: .init(name: "Jared", mark: 5))
+pupil.enqueue(element: .init(name: "Tish", mark: 4))
+pupil.enqueue(element: .init(name: "Bill", mark: 3))
+pupil.enqueue(element: .init(name: "Asuna", mark: 5))
 
 pupil.printMyQueue()
 
